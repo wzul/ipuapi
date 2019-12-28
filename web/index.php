@@ -1,1 +1,3 @@
-hello world
+<?php
+
+echo $_ENV['HAHA']; 
